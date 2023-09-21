@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 30px;"> Hey there! <img height="20" align="center" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"> Akash this size </p>
+<p align="center" style="font-size: 30px;"> Hey there! <img height="20" align="center" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"> Akash this side </p>
 
 <!--
 **AkashDholakiya/AkashDholakiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
