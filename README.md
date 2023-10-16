@@ -1,4 +1,4 @@
-<p align="center" font-size="200px"> Hey there! <img height="50" align="center" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"> Akash this side </p>
+<p align="center" style="font-size="200px""> Hey there! <img height="30" align="center" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"> Akash this side </p>
 
 
 <div height="400" width="1200">
